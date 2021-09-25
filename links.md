@@ -13,3 +13,7 @@ permalink: /LINKS/
    In case you need to use C language.
 5. [Security & Protection in Operating System](https://www.youtube.com/watch?v=DKb7KhfoZmU)\
    Here are some of the concept about Security in Operating System that you might want to check out!
+6. [Some FHS Stuff](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)\
+   A pdf that covers almost everything that you need to know about Filesystem Hierarchy Standard (FHS)
+7. [Top 155 Fuse Filesystem Open Source Projects on GitHub](https://awesomeopensource.com/projects/fuse-filesystem)\
+   Here are some open source projects about FUSE that you might want to see!
