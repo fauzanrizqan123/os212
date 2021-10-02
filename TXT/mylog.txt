@@ -31,3 +31,8 @@ ZCZC W03 60 L09 Assignment in General
 ZCZC W03 20 L22 Quiz
 ZCZC W03 100 L02 Zoom meetings related
 ZCZC W03 30 L01 SCELE/Discord related
+ZCZC W04 60 L09 Weekly Assignments
+ZCZC W04 100 L02 ZOOM meetings related
+ZCZC W04 120 L01 SCELE/Discord related
+ZCZC W04 20 L00 General, etc.
+ZCZC W04 30 L73 Gaming
