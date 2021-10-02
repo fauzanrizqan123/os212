@@ -17,3 +17,9 @@ permalink: /LINKS/
    A pdf that covers almost everything that you need to know about Filesystem Hierarchy Standard (FHS)
 7. [Top 155 Fuse Filesystem Open Source Projects on GitHub](https://awesomeopensource.com/projects/fuse-filesystem)\
    Here are some open source projects about FUSE that you might want to see!
+8. [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)\
+   Some interesting concept that you need to learn about addressing!
+9. [PDF About Memory Management in Operating System](https://www.inf.ed.ac.uk/teaching/courses/os/slides/09-memory18.pdf)\
+   Important material about memory management!
+10. [Address Translation](https://www.youtube.com/watch?v=sUB84uig28A)\
+   Interesting video to get you started on the concept of addressing!
