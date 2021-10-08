@@ -23,3 +23,9 @@ permalink: /LINKS/
    Important material about memory management!
 10. [Address Translation](https://www.youtube.com/watch?v=sUB84uig28A)\
    Interesting video to get you started on the concept of addressing!
+11. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)\
+   Concept on virtual memory!
+12. [Best virtual memory concept videos!](https://www.youtube.com/watch?v=NPhcwfnYZd8)\
+   A pretty good video that are quite easy to understand about the concept of virtual memory!
+13. [Virtual Memory PDF!](https://web.cs.wpi.edu/~cs3013/c07/lectures/Section09-Virtual_Memory.pdf)\
+   A pdf that covers almost everything about virtual memory in operating system!
