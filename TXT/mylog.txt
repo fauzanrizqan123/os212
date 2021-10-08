@@ -36,3 +36,9 @@ ZCZC W04 100 L02 ZOOM meetings related
 ZCZC W04 120 L01 SCELE/Discord related
 ZCZC W04 20 L00 General, etc.
 ZCZC W04 30 L73 Gaming
+ZCZC W05 100 L02 ZOOM meetings related
+ZCZC W05 30 L73 Gaming
+ZCZC W05 130 L05 Quiz
+ZCZC W05 60 L09 Weekly Assignments
+ZCZC W05 100 L01 SCELE/Discord related
+ZCZC W05 30 L00 General, etc.
