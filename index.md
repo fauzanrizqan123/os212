@@ -8,3 +8,5 @@ Hi, my name is Fauzan! Welcome to my Github site. I hope we can get along pretty
 [Github](https://github.com/fauzanrizqan123/os212)
 
 [Important Links](https://fauzanrizqan123.github.io/os212/LINKS/)
+
+[TIPS n TRICK](https://fauzanrizqan123.github.io/os212/TIPS/)
