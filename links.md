@@ -29,3 +29,10 @@ permalink: /LINKS/
    A pretty good video that are quite easy to understand about the concept of virtual memory!
 13. [Virtual Memory PDF!](https://web.cs.wpi.edu/~cs3013/c07/lectures/Section09-Virtual_Memory.pdf)\
    A pdf that covers almost everything about virtual memory in operating system!
+14. [Introduction to Concurrency in Operating System](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/05%3A_Process_Synchronization/5.1%3A_Introduction_to_Concurrency)\
+   Important Concept that you need to see if you want to learn about concurrency!
+15. [Problems/Issues in Concurrency](https://www.javatpoint.com/concurrency-in-operating-system)\
+   Check this out if you want to learn more about concurrency!
+16. [Concurrency for newbies!](https://www.youtube.com/watch?v=iKtvNJQoCNw)\
+   an easy to follow videos that covers the concept about concurrency! Check it out
+
