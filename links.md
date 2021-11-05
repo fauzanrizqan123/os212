@@ -35,4 +35,12 @@ permalink: /LINKS/
    Check this out if you want to learn more about concurrency!
 16. [Concurrency for newbies!](https://www.youtube.com/watch?v=iKtvNJQoCNw)\
    an easy to follow videos that covers the concept about concurrency! Check it out
+17. [Introduction to Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)\
+   Introduction to Synchronization in Operating System that is easy to understand!
+18. [Synch Process](https://www.youtube.com/watch?v=ph2awKa8r5Y)\
+   Great video to helps you understand better about the process of synchronization in operating system
+19. [Really helpful videos about the process synchronization (Requirements)!](https://www.youtube.com/watch?v=RXvKtNatri4)\
+   Very easy to understand video about the requirements of synch in operating system!
+20. [Problems in Synchronization](https://www.geeksforgeeks.org/classical-problems-of-synchronization-with-semaphore-solution/)\
+   Get to know some of the classical problems in synchronization!
 
