@@ -47,3 +47,11 @@ ZCZC W06 100 L02 ZOOM meetings related
 ZCZC W06 360 L73 Gaming
 ZCZC W06 60 L00 General, etc.
 ZCZC W06 30 L03 Github related
+ZCZC W07 90 L73 Gaming
+ZCZC W07 60 L09 Weekly Assignments
+ZCZC W07 100 L02 ZOOM meetings related
+ZCZC W07 50 L01 SCELE/Discord related
+ZCZC W07 60 L80 Watching: Movie, Youtube, TV, etc.
+ZCZC W07 10 L08 AsDos: asking, etc.
+ZCZC W07 45 L70 Studying for other courses.
+
