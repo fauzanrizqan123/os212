@@ -54,4 +54,7 @@ ZCZC W07 50 L01 SCELE/Discord related
 ZCZC W07 60 L80 Watching: Movie, Youtube, TV, etc.
 ZCZC W07 10 L08 AsDos: asking, etc.
 ZCZC W07 45 L70 Studying for other courses.
-
+ZCZC W08 300 L09 Weekly Assignments
+ZCZC W08 75 L73 Gaming
+ZCZC W08 30 L80 Watching: Movie, Youtube, TV, etc.
+ZCZC W08 30 L00 General, etc.

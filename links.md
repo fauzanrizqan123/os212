@@ -43,4 +43,5 @@ permalink: /LINKS/
    Very easy to understand video about the requirements of synch in operating system!
 20. [Problems in Synchronization](https://www.geeksforgeeks.org/classical-problems-of-synchronization-with-semaphore-solution/)\
    Get to know some of the classical problems in synchronization!
-
+21. [Linux From Scratch](https://www.youtube.com/watch?v=5tRJgDJC7kY/)\
+22. [LFS Web](https://www.linuxfromscratch.org/)\
